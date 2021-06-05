@@ -10,9 +10,11 @@
 6. What is Foreign Key?
 7. What do you mean by DESC?
 8. What is joins ? Types of join?
-9. Write query to find all employees from employees table have fName as Robert and lName as Smith and age in DESC Order?
+9. Write query to find all employees from employees table have First Name as 'Robert' and Last Name as 'Smith' and age in DESC Order?
 10. Write query to get data from row 5 to row 15 while table has 20 rows?
 11. What is LIMIT and SKIP in sql?
+12. Difference b/w Primary Key and Foreign Key?
+13. Can we have duplicate Primary Keys in a table?
 
 ## Data Structure Questions
 
