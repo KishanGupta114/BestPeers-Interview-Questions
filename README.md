@@ -7,6 +7,8 @@
 3. What is Tables & Fridge in DBMS?
 4. What is Unique Key?
 5. What is Primary Key?
+6. What is Foreign Key?
+7. What do you mean by DESC?
 
 ## Data Structure Questions
 
@@ -23,6 +25,8 @@
 5. What's Constructor?
 6. What is OOP?
 7. Features of Java
+8. What is Exception Handling?
+9. How to Handle Exceptions?
 
 ## Git/GitHub
 
@@ -37,7 +41,9 @@
 
 1. Write a program to print Reverse Number.
 
-## Some Resume Based Questions
+## Some Personal, Resume & Company Based Questions
 
 1. Tell me somthing about your Projects.
 2. What was your Minor Projects?
+3. Tell me something about Bestpeers.
+4. Tell me somthing about youself.
