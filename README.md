@@ -4,6 +4,9 @@
 
 1. What is DBMS?
 2. Write a Query to Find the Second Highet Salary in the Employee List.
+3. What is Tables & Fridge in DBMS?
+4. What is Unique Key?
+5. What is Primary Key?
 
 ## Data Structure Questions
 
@@ -17,6 +20,9 @@
 2. Types of Inheritance.
 3. What's Multiple Inheritance.
 4. What's Multi-Level Inheritance.
+5. What's Constructor?
+6. What is OOP?
+7. Features of Java
 
 ## Git/GitHub
 
