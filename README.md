@@ -22,7 +22,7 @@
 4. How may Data Types there?
 5. What is array?
 
-## Topics Questions
+## Conceptual Questions
 
 1. What's Inheritance?
 2. Types of Inheritance.
@@ -30,10 +30,32 @@
 4. What's Multi-Level Inheritance.
 5. What's Constructor?
 6. What is OOP?
-7. Features of Java
-8. What is Exception Handling?
-9. How to Handle Exceptions?
-10. Can we use multiple inheritance in Java?
+
+## Java Questions
+
+1 Features of Java?
+2 What is Exception Handling?
+3 How to Handle Exceptions?
+4 Can we use multiple inheritance in Java?
+
+## JavaScript Questions
+
+1. What is ES6?
+2. Features in ES6?
+3. Arrow function?
+4. Difference b/w function and arrow function?
+5. Difference b/w '==' and '===' ?
+
+## React Questions
+
+1. What are lifecycle methods in React?
+2. Which lib you have used in React JS and why?
+3. Can we write jQuery with React or inside React Project?
+4. Can we use lifecycle methods in functional components?
+5. What is HOOKs? Tell some HOOKs?
+6. Difference b/w npm and Yarn?
+7. Describe GET, POST, PUT, PATCH and DELETE method?
+8. Difference b/w PUT and PATCH?
 
 ## Git/GitHub
 
