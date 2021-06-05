@@ -43,8 +43,10 @@
 
 ## Some Personal, Resume & Company Based Questions
 
-1. Tell me somthing about your Projects.
-2. What was your Minor Projects?
-3. Tell me something about Bestpeers.
-4. Tell me somthing about youself.
-5. Do you know anyone in our company? If Yes! Then How.. Otherwise It's Okay.
+1. Tell me somthing about youself.
+2. Tell me somthing about your Projects.
+3. What was your Minor Projects?
+4. What was your Role in the Projects?
+5. Which Languages did you use for that Specific Project?
+6. Tell me something about Bestpeers.
+8. Do you know anyone in our company? If Yes! Then How.. Otherwise It's Okay.
