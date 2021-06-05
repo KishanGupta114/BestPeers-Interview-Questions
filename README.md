@@ -56,6 +56,7 @@
 6. Difference b/w npm and Yarn?
 7. Describe GET, POST, PUT, PATCH and DELETE method?
 8. Difference b/w PUT and PATCH?
+9. Tell about React project structure?
 
 ## Git/GitHub
 
