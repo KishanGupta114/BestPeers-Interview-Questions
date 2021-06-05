@@ -4,7 +4,7 @@
 
 1. What is DBMS?
 2. Write a Query to Find the Second Highet Salary in the Employee List.
-3. What is Tables & Fridge in DBMS?
+3. What is Tables & fields in DBMS?
 4. What is Unique Key?
 5. What is Primary Key?
 6. What is Foreign Key?
