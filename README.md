@@ -33,10 +33,10 @@
 
 ## Java Questions
 
-1 Features of Java?
-2 What is Exception Handling?
-3 How to Handle Exceptions?
-4 Can we use multiple inheritance in Java?
+1. Features of Java?
+2. What is Exception Handling?
+3. How to Handle Exceptions?
+4. Can we use multiple inheritance in Java?
 
 ## JavaScript Questions
 
