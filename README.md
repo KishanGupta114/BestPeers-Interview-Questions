@@ -9,12 +9,18 @@
 5. What is Primary Key?
 6. What is Foreign Key?
 7. What do you mean by DESC?
+8. What is joins ? Types of join?
+9. Write query to find all employees from employees table have fName as Robert and lName as Smith and age in DESC Order?
+10. Write query to get data from row 5 to row 15 while table has 20 rows?
+11. What is LIMIT and SKIP in sql?
 
 ## Data Structure Questions
 
 1. Linked List
 2. Stack
 3. Queue
+4. How may Data Types there?
+5. What is array?
 
 ## Topics Questions
 
@@ -27,6 +33,7 @@
 7. Features of Java
 8. What is Exception Handling?
 9. How to Handle Exceptions?
+10. Can we use multiple inheritance in Java?
 
 ## Git/GitHub
 
@@ -39,7 +46,9 @@
 
 ## C Program
 
-1. Write a program to print Reverse Number.
+1. Write a program to print Reverse Number?
+2. Write a program to find Fibonacci series?
+3. Write a program to find is number even or odd?
 
 ## Some Personal, Resume & Company Based Questions
 
@@ -50,3 +59,4 @@
 5. Which Languages did you use for that Specific Project?
 6. Tell me something about Bestpeers.
 8. Do you know anyone in our company? If Yes! Then How.. Otherwise It's Okay.
+9. How you rate your skills out of 10?
